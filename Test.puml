@@ -8,7 +8,7 @@ Alice <-- Bob: another authentication Response
 
 
 @startuml
-
+ a -> b: test
 
 A -> B: Authentication Request
 B --> A: Authentication Response
